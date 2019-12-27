@@ -1,2 +1,2 @@
-# test
-this is a test repository
+# Scene Text Recognition Resources
+
