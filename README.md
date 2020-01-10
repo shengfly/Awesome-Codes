@@ -6,3 +6,6 @@
 # zhihu blog
 -  OCR https://zhuanlan.zhihu.com/p/74756128
 
+# Saliency Model
+- F3Net: Fusion, Feedback and Focus for Salient Object Detection [`paper`](https://arxiv.org/pdf/1911.11445.pdf)[`github`](https://github.com/weijun88/F3Net) AAAI 2020
+
