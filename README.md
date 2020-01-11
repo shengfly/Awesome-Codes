@@ -9,3 +9,5 @@
 # Saliency Model
 - F3Net: Fusion, Feedback and Focus for Salient Object Detection [`paper`](https://arxiv.org/pdf/1911.11445.pdf)[`github`](https://github.com/weijun88/F3Net) AAAI 2020
 
+# Binarization
+- Improving Document Binarization via Adversarial Noise-Texture Augmentation  [`paper`](https://arxiv.org/pdf/1810.11120v1.pdf) [`github`](https://github.com/ankanbhunia/AdverseBiNet) ICIP 2019
