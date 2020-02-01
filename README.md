@@ -20,3 +20,7 @@
 
 # Future direction:
 --   GridMask Data Augmentation [`paper`](https://arxiv.org/pdf/2001.04086.pdf) [`github`](https://github.com/akuxcw/GridMask)
+
+
+Person ReID
+-- Partition and Reunion: A Two-Branch Neural Network for Vehicle Re-identification [`paper`](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Chen_Partition_and_Reunion_A_Two-Branch_Neural_Network_for_Vehicle_Re-identification_CVPRW_2019_paper.pdf)
