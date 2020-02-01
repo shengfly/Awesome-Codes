@@ -24,3 +24,5 @@
 
 # Person ReID
 -- Partition and Reunion: A Two-Branch Neural Network for Vehicle Re-identification [`paper`](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Chen_Partition_and_Reunion_A_Two-Branch_Neural_Network_for_Vehicle_Re-identification_CVPRW_2019_paper.pdf)
+-- Towards Rich Feature Discovery with Class Activation Maps Augmentation for Person Re-Identification[`paper`](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Towards_Rich_Feature_Discovery_With_Class_Activation_Maps_Augmentation_for_CVPR_2019_paper.pdf)
+
