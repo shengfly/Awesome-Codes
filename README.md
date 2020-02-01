@@ -27,3 +27,4 @@
 - Towards Rich Feature Discovery with Class Activation Maps Augmentation for Person Re-Identification[`paper`](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Towards_Rich_Feature_Discovery_With_Class_Activation_Maps_Augmentation_for_CVPR_2019_paper.pdf)
 - Pyramidal Person Re-IDentification via Multi-Loss Dynamic Training[`paper`](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Pyramidal_Person_Re-IDentification_via_Multi-Loss_Dynamic_Training_CVPR_2019_paper.pdf)
 - Learning Discriminative Features with Multiple Granularities for Person Re-Identification[`paper`](https://arxiv.org/pdf/1804.01438.pdf)
+- Spectral Feature Transformation for Person Re-Identification[`paper`](http://openaccess.thecvf.com/content_ICCV_2019/papers/Luo_Spectral_Feature_Transformation_for_Person_Re-Identification_ICCV_2019_paper.pdf)
