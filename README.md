@@ -7,6 +7,9 @@
 # zhihu blog
 -  OCR https://zhuanlan.zhihu.com/p/74756128
 
+# few-shot learning
+ - A New Meta-Baseline for Few-Shot Learning [`paper`](https://arxiv.org/abs/1909.02729) [`github`](https://github.com/cyvius96/few-shot-meta-baseline)
+ 
 # Saliency Model
 - F3Net: Fusion, Feedback and Focus for Salient Object Detection [`paper`](https://arxiv.org/pdf/1911.11445.pdf)[`github`](https://github.com/weijun88/F3Net) AAAI 2020
 - Depth-induced Multi-scale Recurrent Attention Network for Saliency Detection [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/papers/Piao_Depth-Induced_Multi-Scale_Recurrent_Attention_Network_for_Saliency_Detection_ICCV_2019_paper.pdf)[`github`](https://github.com/OIPLab-DUT/DMRA_RGBD-SOD) ICCV 2019
