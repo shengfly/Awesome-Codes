@@ -3,6 +3,7 @@
 - Decoupled attention network for text recognition [`paper`](https://arxiv.org/pdf/1912.10205.pdf) [`github`](https://github.com/Wang-Tianwei/Decoupled-attention-network)
 - ASTER: Attentional Scene Text Recognizer with Flexible Rectification [`github`](https://github.com/bgshih/aster)
 - Learn to Augment: Joint Data Augmentation and Network Optimization for Text Recognition [`paper`](https://arxiv.org/pdf/2003.06606.pdf)
+- Scene Text Recognition via Transformer [`paper`](https://arxiv.org/pdf/2003.08077.pdf)[`github`](https://github.com/fengxinjie/Transformer-OCR)
 
 # zhihu blog
 -  OCR https://zhuanlan.zhihu.com/p/74756128
