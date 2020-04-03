@@ -14,6 +14,7 @@
  - Rethinking Few-Shot Image Classification: a Good Embedding Is All You Need? [`paper`](https://arxiv.org/pdf/2003.11539.pdf)[`github`](https://github.com/WangYueFt/rfs/)
  - A Closer Look at Few-shot Classification [`github`](https://github.com/wyharveychen/CloserLookFewShot/blob/e03aca8a2d01c9b5861a5a816cd5d3fdfc47cd45/methods/relationnet.py)
  - Negative Margin Matters: Understanding Margin in Few-shot Classification [`github`](https://github.com/bl0/negative-margin.few-shot)
+ - Selecting Relevant Features from a Universal Representation for Few-shot Classification [`github`](https://github.com/dvornikita/SUR)
  
 # Saliency Model
 - F3Net: Fusion, Feedback and Focus for Salient Object Detection [`paper`](https://arxiv.org/pdf/1911.11445.pdf)[`github`](https://github.com/weijun88/F3Net) AAAI 2020
