@@ -7,6 +7,9 @@
 - Sequence-to-Sequence Domain Adaptation Network for Robust Text Image Recognition (only paper) [`paper`](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Sequence-To-Sequence_Domain_Adaptation_Network_for_Robust_Text_Image_Recognition_CVPR_2019_paper.pdf)
 - SCATTER: Selective Context Attentional Scene Text Recognizer (only paper) [`paper`](https://arxiv.org/pdf/2003.11288.pdf)
 
+# handwritten recognition
+-Unsupervised Adaptation for Synthetic-to-Real Handwritten Word Recognition 
+
 # zhihu blog
 -  OCR https://zhuanlan.zhihu.com/p/74756128
 
