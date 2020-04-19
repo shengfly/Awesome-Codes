@@ -22,6 +22,7 @@
  - Negative Margin Matters: Understanding Margin in Few-shot Classification [`github`](https://github.com/bl0/negative-margin.few-shot)
  - Selecting Relevant Features from a Universal Representation for Few-shot Classification [`github`](https://github.com/dvornikita/SUR)
  - Learning to propagate labels: transductive propagation network for few-shot learning [`paper`](https://arxiv.org/pdf/1805.10002.pdf)[`github`](https://github.com/csyanbin/TPN-pytorch/blob/master/models.py)
+ - Transductive Few-shot Learning with Meta-Learned Confidence [`paper`](https://arxiv.org/pdf/2002.12017.pdf) [`github`](https://github.com/seongmin-kye/MCT_DFMN/tree/7f3660f538ab7a6e54d4a17bfd793a06244b6ee5)
  
 # Saliency Model
 - F3Net: Fusion, Feedback and Focus for Salient Object Detection [`paper`](https://arxiv.org/pdf/1911.11445.pdf)[`github`](https://github.com/weijun88/F3Net) AAAI 2020
