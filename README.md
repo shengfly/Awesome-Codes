@@ -7,6 +7,7 @@
 - Scene Text Recognition via Transformer [`paper`](https://arxiv.org/pdf/2003.08077.pdf)[`github`](https://github.com/fengxinjie/Transformer-OCR)
 - Sequence-to-Sequence Domain Adaptation Network for Robust Text Image Recognition (only paper) [`paper`](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Sequence-To-Sequence_Domain_Adaptation_Network_for_Robust_Text_Image_Recognition_CVPR_2019_paper.pdf)
 - SCATTER: Selective Context Attentional Scene Text Recognizer (only paper) [`paper`](https://arxiv.org/pdf/2003.11288.pdf)
+- Bidirectional Scene Text Recognition with a Single Decoder [`github`](https://github.com/MauritsBleeker/Bi-STET/tree/d7bb34298bf1e4da61f326968886591296690ef6)
 
 # handwritten recognition
 -Unsupervised Adaptation for Synthetic-to-Real Handwritten Word Recognition 
