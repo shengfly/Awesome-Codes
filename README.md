@@ -56,3 +56,7 @@
 
 # CVPR 2020 
 -BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition [`paper`](http://www.weixiushen.com/publication/cvpr20_BBN.pdf)[`github`](https://github.com/Megvii-Nanjing/BBN/tree/6976695d00be6ad9143e6cfd7340baeacaf1de32)
+
+# COVID-19
+- MiniSeg: An Extremely Minimum Network for
+Efficient COVID-19 Segmentation [`paper`](https://arxiv.org/pdf/2004.09750.pdf) dataset
