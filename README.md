@@ -59,4 +59,4 @@
 
 # COVID-19
 - MiniSeg: An Extremely Minimum Network for
-Efficient COVID-19 Segmentation [`paper`](https://arxiv.org/pdf/2004.09750.pdf) dataset
+Efficient COVID-19 Segmentation [`paper`](https://arxiv.org/pdf/2004.09750.pdf) [`datasetz](http://medicalsegmentation.com/covid19/)
