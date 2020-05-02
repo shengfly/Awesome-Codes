@@ -25,6 +25,10 @@
  - Learning to propagate labels: transductive propagation network for few-shot learning [`paper`](https://arxiv.org/pdf/1805.10002.pdf)[`github`](https://github.com/csyanbin/TPN-pytorch/blob/master/models.py)
  - Transductive Few-shot Learning with Meta-Learned Confidence [`paper`](https://arxiv.org/pdf/2002.12017.pdf) [`github`](https://github.com/seongmin-kye/MCT_DFMN/tree/7f3660f538ab7a6e54d4a17bfd793a06244b6ee5)
  
+ Useful papers:
+ 
+- MICK: A Meta-Learning Framework for Few-shot Relation Classification with Little Training Data[`paper`](https://arxiv.org/pdf/2004.14164.pdf)
+ 
 # Saliency Model
 - F3Net: Fusion, Feedback and Focus for Salient Object Detection [`paper`](https://arxiv.org/pdf/1911.11445.pdf)[`github`](https://github.com/weijun88/F3Net) AAAI 2020
 - Depth-induced Multi-scale Recurrent Attention Network for Saliency Detection [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/papers/Piao_Depth-Induced_Multi-Scale_Recurrent_Attention_Network_for_Saliency_Detection_ICCV_2019_paper.pdf)[`github`](https://github.com/OIPLab-DUT/DMRA_RGBD-SOD) ICCV 2019
