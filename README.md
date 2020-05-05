@@ -68,4 +68,4 @@ Efficient COVID-19 Segmentation [`paper`](https://arxiv.org/pdf/2004.09750.pdf) 
 - Inf-Net: Automatic COVID-19 Lung Infection Segmentation from CT Scans [`paper`](https://arxiv.org/pdf/2004.14133.pdf)
 
 # Others
-- Deep Image Blending [`githubz](https://github.com/owenzlz/DeepImageBlending)
+- Deep Image Blending [`github`](https://github.com/owenzlz/DeepImageBlending)
