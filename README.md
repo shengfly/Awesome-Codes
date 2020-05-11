@@ -8,7 +8,8 @@
 - Sequence-to-Sequence Domain Adaptation Network for Robust Text Image Recognition (only paper) [`paper`](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Sequence-To-Sequence_Domain_Adaptation_Network_for_Robust_Text_Image_Recognition_CVPR_2019_paper.pdf)
 - SCATTER: Selective Context Attentional Scene Text Recognizer (only paper) [`paper`](https://arxiv.org/pdf/2003.11288.pdf)
 - Bidirectional Scene Text Recognition with a Single Decoder [`github`](https://github.com/MauritsBleeker/Bi-STET/tree/d7bb34298bf1e4da61f326968886591296690ef6)
-- On Vocabulary Reliance in Scene Text Recognition [`paper`]()
+- On Vocabulary Reliance in Scene Text Recognition [`paper`](https://arxiv.org/pdf/2005.03959.pdf)
+- Text Recognition in the Wild: A Survey [`paper`](https://arxiv.org/pdf/2005.03492v1.pdf)
 
 # handwritten recognition
 -Unsupervised Adaptation for Synthetic-to-Real Handwritten Word Recognition 
