@@ -30,6 +30,7 @@
  Useful papers:
  
 - MICK: A Meta-Learning Framework for Few-shot Relation Classification with Little Training Data[`paper`](https://arxiv.org/pdf/2004.14164.pdf)
+- Supervised Contrastive Learning [`paper`](https://arxiv.org/pdf/2004.11362v1.pdf)
  
 # Saliency Model
 - F3Net: Fusion, Feedback and Focus for Salient Object Detection [`paper`](https://arxiv.org/pdf/1911.11445.pdf)[`github`](https://github.com/weijun88/F3Net) AAAI 2020
