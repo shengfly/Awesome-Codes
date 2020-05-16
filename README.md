@@ -48,6 +48,7 @@
 
 # Future direction:
 --   GridMask Data Augmentation [`paper`](https://arxiv.org/pdf/2001.04086.pdf) [`github`](https://github.com/akuxcw/GridMask)
+-- cale-Equalizing Pyramid Convolution for Object Detection [`paper`](https://arxiv.org/pdf/2005.03101v1.pdf)
 
 
 # Person ReID
