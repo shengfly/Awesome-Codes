@@ -47,10 +47,10 @@
 
 
 # Future direction:
---   GridMask Data Augmentation [`paper`](https://arxiv.org/pdf/2001.04086.pdf) [`github`](https://github.com/akuxcw/GridMask)
--- cale-Equalizing Pyramid Convolution for Object Detection [`paper`](https://arxiv.org/pdf/2005.03101v1.pdf)
--- Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting [`paper`](https://arxiv.org/pdf/2005.09704.pdf)
--- Attribute2Font: Creating Fonts You Want From Attributes [`paper`](https://arxiv.org/pdf/2005.07865.pdf)
+-  GridMask Data Augmentation [`paper`](https://arxiv.org/pdf/2001.04086.pdf) [`github`](https://github.com/akuxcw/GridMask)
+- cale-Equalizing Pyramid Convolution for Object Detection [`paper`](https://arxiv.org/pdf/2005.03101v1.pdf)
+- Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting [`paper`](https://arxiv.org/pdf/2005.09704.pdf)
+- Attribute2Font: Creating Fonts You Want From Attributes [`paper`](https://arxiv.org/pdf/2005.07865.pdf)
 
 # Person ReID
 - Diversity-Achieving Slow-DropBlock Network for Person Re-Identification [`github`](https://github.com/AI-NERC-NUPT/SDB)
