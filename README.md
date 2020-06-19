@@ -14,6 +14,7 @@
 
 # handwritten recognition
 -Unsupervised Adaptation for Synthetic-to-Real Handwritten Word Recognition 
+- MultiSpeech: Multi-Speaker Text to Speech with Transformer [`paper`](https://arxiv.org/pdf/2006.04664.pdf)
 
 # zhihu blog
 -  OCR https://zhuanlan.zhihu.com/p/74756128
