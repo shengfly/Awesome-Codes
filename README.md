@@ -73,6 +73,7 @@
 Efficient COVID-19 Segmentation [`paper`](https://arxiv.org/pdf/2004.09750.pdf) [`dataset`](http://medicalsegmentation.com/covid19/)
 - Towards Efficient COVID-19 CT Annotation: A Benchmark for Lung and Infection Segmentation [`paper`](https://arxiv.org/pdf/2004.12537.pdf)
 - Inf-Net: Automatic COVID-19 Lung Infection Segmentation from CT Scans [`paper`](https://arxiv.org/pdf/2004.14133.pdf)
+- An encoder-decoder-based method for COVID-19 lung infection segmentation [`paper`](https://arxiv.org/pdf/2007.00861.pdf)
 
 # Others
 - Deep Image Blending [`github`](https://github.com/owenzlz/DeepImageBlending)
