@@ -78,3 +78,4 @@ Efficient COVID-19 Segmentation [`paper`](https://arxiv.org/pdf/2004.09750.pdf) 
 # Others
 - Deep Image Blending [`github`](https://github.com/owenzlz/DeepImageBlending)
 - Visual Transformers: Token-based Image Representation and Processing for Computer Vision[`paper`](https://arxiv.org/pdf/2006.03677.pdf)
+- DETR[`github`](https://github.com/facebookresearch/detr）
