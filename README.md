@@ -83,3 +83,4 @@ Efficient COVID-19 Segmentation [`paper`](https://arxiv.org/pdf/2004.09750.pdf) 
 # ECCV 2020
 - ActBERT: Learning Global-Local Video-Text Representations
 - FeatMatch: Feature-Based Augmentation for Semi-Supervised Learning[`paper`](https://arxiv.org/pdf/2007.08505.pdf)
+- Suppress and Balance: A Simple Gated Network for Salient Object Detection [`paper`](https://arxiv.org/pdf/2007.08074.pdf)
