@@ -79,4 +79,7 @@ Efficient COVID-19 Segmentation [`paper`](https://arxiv.org/pdf/2004.09750.pdf) 
 - Deep Image Blending [`github`](https://github.com/owenzlz/DeepImageBlending)
 - Visual Transformers: Token-based Image Representation and Processing for Computer Vision[`paper`](https://arxiv.org/pdf/2006.03677.pdf)
 - DETR [`github`](https://github.com/facebookresearch/detr)
+
+# ECCV 2020
 - ActBERT: Learning Global-Local Video-Text Representations
+- FeatMatch: Feature-Based Augmentation for Semi-Supervised Learning[`paper`](https://arxiv.org/pdf/2007.08505.pdf)
