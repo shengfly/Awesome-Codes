@@ -88,3 +88,6 @@ Efficient COVID-19 Segmentation [`paper`](https://arxiv.org/pdf/2004.09750.pdf) 
 
 # MICCAI
 - Self-Supervised Nuclei Segmentation in Histopathological Images Using Attention [`paper`](https://arxiv.org/pdf/2007.08373v1.pdf)[`github`](https://github.com/msahasrabudhe/miccai2020_self_sup_nuclei_seg)
+
+# MedIA
+- Subsampled brain MRI reconstruction by generative adversarial neural networks [`github`](https://github.com/ItamarDavid/Subsampled-Brain-MRI-Reconstruction-by-Generative-Adversarial-Neural-Networks)
