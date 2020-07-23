@@ -92,3 +92,7 @@ Efficient COVID-19 Segmentation [`paper`](https://arxiv.org/pdf/2004.09750.pdf) 
 
 # MedIA
 - Subsampled brain MRI reconstruction by generative adversarial neural networks [`github`](https://github.com/ItamarDavid/Subsampled-Brain-MRI-Reconstruction-by-Generative-Adversarial-Neural-Networks)
+
+# Video
+
+- A Closer Look at Spatiotemporal Convolutions for Action Recognition [`paper`](https://arxiv.org/pdf/1711.11248.pdf)[`github`](https://github.com/irhum/R2Plus1D-PyTorch)
