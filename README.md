@@ -96,3 +96,4 @@ Efficient COVID-19 Segmentation [`paper`](https://arxiv.org/pdf/2004.09750.pdf) 
 # Video
 
 - A Closer Look at Spatiotemporal Convolutions for Action Recognition [`paper`](https://arxiv.org/pdf/1711.11248.pdf)[`github`](https://github.com/irhum/R2Plus1D-PyTorch)
+- Gate-Shift Networks for Video Action Recognition [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sudhakaran_Gate-Shift_Networks_for_Video_Action_Recognition_CVPR_2020_paper.pdf) [`github`](https://github.com/swathikirans/GSM)
