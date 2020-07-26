@@ -100,3 +100,4 @@ Efficient COVID-19 Segmentation [`paper`](https://arxiv.org/pdf/2004.09750.pdf) 
 - ECO: Efficient Convolutional Network for Online Video Understanding [`paper`](https://arxiv.org/pdf/1804.09066.pdf)[`github`](https://github.com/zhang-can/ECO-pytorch/blob/master/models.py)
 - STH: Spatio-Temporal Hybrid Convolution for Efficient Action Recognition [`paper`](https://arxiv.org/pdf/2003.08042.pdf)
 - Dynamic Sampling Networks for Efficient Action Recognition in Videos [`paper`](https://arxiv.org/pdf/2006.15560.pdf)
+- SmallBigNet: Integrating Core and Contextual Views for Video Classification
