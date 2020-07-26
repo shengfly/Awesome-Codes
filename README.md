@@ -102,3 +102,4 @@ Efficient COVID-19 Segmentation [`paper`](https://arxiv.org/pdf/2004.09750.pdf) 
 - Dynamic Sampling Networks for Efficient Action Recognition in Videos [`paper`](https://arxiv.org/pdf/2006.15560.pdf)
 - SmallBigNet: Integrating Core and Contextual Views for Video Classification [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_SmallBigNet_Integrating_Core_and_Contextual_Views_for_Video_Classification_CVPR_2020_paper.pdf)
 - Learning Video Representations from Correspondence Proposals
+- Collaborative Spatiotemporal Feature Learning for Video Action Recognition [`paper`](https://arxiv.org/pdf/1903.01197.pdf)
