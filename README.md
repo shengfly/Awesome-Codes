@@ -103,6 +103,7 @@ Efficient COVID-19 Segmentation [`paper`](https://arxiv.org/pdf/2004.09750.pdf) 
 - SmallBigNet: Integrating Core and Contextual Views for Video Classification [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_SmallBigNet_Integrating_Core_and_Contextual_Views_for_Video_Classification_CVPR_2020_paper.pdf)
 - Learning Video Representations from Correspondence Proposals
 - Collaborative Spatiotemporal Feature Learning for Video Action Recognition [`paper`](https://arxiv.org/pdf/1903.01197.pdf)
+- AR-Net: Adaptive Frame Resolution for Efficient Action Recognition [`paper`](https://arxiv.org/pdf/2007.15796.pdf)
 
 # Interesting topics
 - Assessing the reliability of a clothing-based forensic identification PNAS (data available)
