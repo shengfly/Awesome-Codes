@@ -104,6 +104,7 @@ Efficient COVID-19 Segmentation [`paper`](https://arxiv.org/pdf/2004.09750.pdf) 
 - Learning Video Representations from Correspondence Proposals
 - Collaborative Spatiotemporal Feature Learning for Video Action Recognition [`paper`](https://arxiv.org/pdf/1903.01197.pdf)
 - AR-Net: Adaptive Frame Resolution for Efficient Action Recognition [`paper`](https://arxiv.org/pdf/2007.15796.pdf)
+-Cylinder3D: An Effective 3D Framework for Driving-scene LiDAR Semantic Segmentation [`paper`](https://arxiv.org/pdf/2008.01550.pdf)
 
 # Interesting topics
 - Assessing the reliability of a clothing-based forensic identification PNAS (data available)
