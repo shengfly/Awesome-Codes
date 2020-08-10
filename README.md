@@ -108,3 +108,6 @@ Efficient COVID-19 Segmentation [`paper`](https://arxiv.org/pdf/2004.09750.pdf) 
 
 # Interesting topics
 - Assessing the reliability of a clothing-based forensic identification PNAS (data available)
+
+# Datast 
+- ISIC 2016, 2017 [`website`](https://challenge.isic-archive.com/data#2018)
