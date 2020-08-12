@@ -53,6 +53,7 @@
 - Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting [`paper`](https://arxiv.org/pdf/2005.09704.pdf)
 - Attribute2Font: Creating Fonts You Want From Attributes [`paper`](https://arxiv.org/pdf/2005.07865.pdf)
 - Kronecker Attention Networks [`paper`](https://arxiv.org/pdf/2007.08442.pdf)
+- HATNet: An End-to-End Holistic Attention Network for Diagnosis of Breast Biopsy Images [`paper`](https://arxiv.org/pdf/2007.13007.pdf)
 
 # Person ReID
 - Diversity-Achieving Slow-DropBlock Network for Person Re-Identification [`github`](https://github.com/AI-NERC-NUPT/SDB)
