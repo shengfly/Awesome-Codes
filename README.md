@@ -108,6 +108,8 @@ Efficient COVID-19 Segmentation [`paper`](https://arxiv.org/pdf/2004.09750.pdf) 
 - AR-Net: Adaptive Frame Resolution for Efficient Action Recognition [`paper`](https://arxiv.org/pdf/2007.15796.pdf)
 -Cylinder3D: An Effective 3D Framework for Driving-scene LiDAR Semantic Segmentation [`paper`](https://arxiv.org/pdf/2008.01550.pdf)
 
+- HDC-Net: Hierarchical Decoupled Convolution Network for Brain Tumor Segmentation[`github`](https://github.com/luozhengrong/HDC-Net)
+
 # Interesting topics
 - Assessing the reliability of a clothing-based forensic identification PNAS (data available)
 
