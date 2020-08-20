@@ -110,6 +110,6 @@ Efficient COVID-19 Segmentation [`paper`](https://arxiv.org/pdf/2004.09750.pdf) 
 
 # Interesting topics
 - Assessing the reliability of a clothing-based forensic identification PNAS (data available)
-
+- Transformation-consistent Self-ensembling Model for Semi-supervised Medical Image Segmentation. [`paper`](https://arxiv.org/pdf/1903.00348.pdf)[`github`](https://github.com/xmengli999/TCSM/blob/master/train_tcsm_mean.py)
 # Datast 
 - ISIC 2016, 2017 [`website`](https://challenge.isic-archive.com/data#2018)
