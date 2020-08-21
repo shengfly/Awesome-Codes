@@ -1,3 +1,7 @@
+# Refinement Netowrk works
+
+- Motion-Guided Cascaded Refinement Network for Video Object Segmentation PAMI2020
+
 # Scene Text Recognition Resources
 - PyTorch lib [`github`](https://github.com/Media-Smart/vedastr)
 - What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis [`paper`](https://arxiv.org/pdf/1904.01906.pdf) [`github`](https://github.com/clovaai/deep-text-recognition-benchmark)
