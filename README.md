@@ -42,6 +42,7 @@
 - F3Net: Fusion, Feedback and Focus for Salient Object Detection [`paper`](https://arxiv.org/pdf/1911.11445.pdf)[`github`](https://github.com/weijun88/F3Net) AAAI 2020
 - Depth-induced Multi-scale Recurrent Attention Network for Saliency Detection [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/papers/Piao_Depth-Induced_Multi-Scale_Recurrent_Attention_Network_for_Saliency_Detection_ICCV_2019_paper.pdf)[`github`](https://github.com/OIPLab-DUT/DMRA_RGBD-SOD) ICCV 2019
 - Reverse Attention-Based Residual Network for Salient Object Detection [`github`](https://github.com/ShuhanChen/RAS_ECCV18)[`paper`](https://arxiv.org/pdf/1807.09940.pdf)
+- Label Decoupling Framework for Salient Object Detection [`paper`](https://arxiv.org/pdf/2008.11048.pdf)
 
 # Binarization
 - DIBCO 2019 Dataset [`url`](https://vc.ee.duth.gr/dibco2019/benchmark/)
