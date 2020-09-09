@@ -60,6 +60,7 @@
 - Kronecker Attention Networks [`paper`](https://arxiv.org/pdf/2007.08442.pdf)
 - HATNet: An End-to-End Holistic Attention Network for Diagnosis of Breast Biopsy Images [`paper`](https://arxiv.org/pdf/2007.13007.pdf)
 - Learning To Pay Attention To Mistakes [`paper`](https://arxiv.org/pdf/2007.15131.pdf) code available
+- Inducing Predictive Uncertainty Estimation for Face Recognition [Very interesting]
 
 # Person ReID
 - Diversity-Achieving Slow-DropBlock Network for Person Re-Identification [`github`](https://github.com/AI-NERC-NUPT/SDB)
