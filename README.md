@@ -1,3 +1,7 @@
+# ICRL 2021
+
+- Inner Ensemble Learning [`paper`](https://openreview.net/pdf?id=cgRzg1V9su)
+
 # Refinement Netowrk works
 
 - Motion-Guided Cascaded Refinement Network for Video Object Segmentation PAMI2020
