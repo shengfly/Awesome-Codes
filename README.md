@@ -1,3 +1,7 @@
+# Vision Transformer
+
+- Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers [`paper`](https://arxiv.org/pdf/2012.15840.pdf)
+
 # ICRL 2021
 
 - Inner Ensemble Learning [`paper`](https://openreview.net/pdf?id=cgRzg1V9su)
