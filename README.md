@@ -1,3 +1,7 @@
+# Comprehensive studies
+-Cutting-edge 3D Medical Image Segmentation Methods in 2020: Are Happy Families All Alike? [`paper`](https://arxiv.org/pdf/2101.00232.pdf)
+-VIS30K: A Collection of Figures and Tables from IEEE Visualization Conference Publications [`paper`](https://arxiv.org/pdf/2101.01036.pdf)
+
 # Vision Transformer
 
 - PyTorch Git[`github`](https://github.com/jeonsworld/ViT-pytorch)
