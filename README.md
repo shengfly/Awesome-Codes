@@ -7,6 +7,7 @@
 
 - PyTorch Git[`github`](https://github.com/jeonsworld/ViT-pytorch)
 - Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers [`paper`](https://arxiv.org/pdf/2012.15840.pdf)
+- UP-DETR: Unsupervised Pre-training for Object Detection with Transformers [`paper`](https://arxiv.org/pdf/2011.09094.pdf)
 
 # ICRL 2021
 
