@@ -1,3 +1,5 @@
+- FcaNet: Frequency Channel Attention Networks [`paper`](https://arxiv.org/pdf/2012.11879.pdf)
+
 # Comprehensive studies
 
 - Cutting-edge 3D Medical Image Segmentation Methods in 2020: Are Happy Families All Alike? [`paper`](https://arxiv.org/pdf/2101.00232.pdf)
