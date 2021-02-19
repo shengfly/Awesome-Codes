@@ -12,6 +12,7 @@
 - UP-DETR: Unsupervised Pre-training for Object Detection with Transformers [`paper`](https://arxiv.org/pdf/2011.09094.pdf)
 - Training data-efficient image transformers & distillation through attention [`paper`](https://arxiv.org/pdf/2012.12877v1.pdf)[`github`](https://github.com/facebookresearch/deit)
 - Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet [`paper`](https://arxiv.org/pdf/2101.11986.pdf)[`github`](https://github.com/yitu-opensource/T2T-ViT/blob/main/models/transformer_block.py)
+- TransGAN: Two Transformers Can Make One Strong GAN [`paper`](https://arxiv.org/pdf/2102.07074.pdf)
 
 # ICRL 2021
 
